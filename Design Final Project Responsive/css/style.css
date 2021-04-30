@@ -1,0 +1,100 @@
+
+
+.hidden-logo{
+    display:none;
+}
+
+.header-top-left   ul{
+    list-style-type: none;
+}
+.header-top-left .social-media-icons li{
+    float:left;
+    display:block;
+    padding:5px;
+}
+
+.header-top-right  ul{
+    list-style-type: none;
+}
+.header-top-right  .company-contacts li{
+    float: right;
+    padding:5px;
+    display: block;
+    font-size:12;
+    color:#777777;
+}
+
+a:hover{
+    color:#f0423c;
+    
+
+}
+input[type=button]{
+    background-color: #f0423c;
+    color:white;
+    border:none;
+    padding:15px 30px;
+    margin-left:auto;
+    margin-right:auto;
+    cursor:pointer;   
+    
+}
+a{
+    cursor:pointer;
+}
+
+
+.left{
+    float: left;
+}
+.right{
+    float:right;
+}
+
+.main-logo{
+    padding:15px 10px;
+}
+
+.logo *{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.banner-contents * {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+.red{
+    color:#f0423c;
+    display:inline
+
+}
+
+.guarantee{
+    font-size:60%;
+    font-weight:bold;
+    display: inline;;
+}
+
+input[type=text]
+{
+    height:42px;
+
+}
+.content-individual:hover{
+    background-color: #edededed;
+    cursor:pointer;
+}
+
+img:hover{
+     
+    cursor: pointer;
+}
+
+
+
